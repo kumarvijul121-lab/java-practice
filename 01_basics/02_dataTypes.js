@@ -1,16 +1,17 @@
 "use strict"; // Treats all JS code as newer version and throws error for unsafe actions
 
-alert("Hello World") // we are using nodejs so alert will not work here , only works in browser
+//alert("Hello World") // we are using nodejs so alert will not work here , only works in browser
 
-.console.log(3 
+ console.log(3  
       +
        3) //code readability should be high
 
-    console.log (" Viul")
+    console.log ("Vijul")
 
     let name = "Vijul"
-    let = age = 19
-   let isloggedIn = true 
+    let age = 19
+   let isloggedIn = false
+   let state;
 
 
    // number => 1, 3.14, -5, etc
@@ -25,5 +26,7 @@ alert("Hello World") // we are using nodejs so alert will not work here , only w
 
    //Object => collection of key value pairs
 
-   console.log(typeof "Vijul")
+   console.log(typeof undefined) //undefiened
+   console.log (typeof null); //object
+   
 
