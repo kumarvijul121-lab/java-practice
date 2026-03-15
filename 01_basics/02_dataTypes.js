@@ -23,7 +23,6 @@
 
 
 
-
    //Object => collection of key value pairs
 
    console.log(typeof undefined) //undefiened
