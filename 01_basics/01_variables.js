@@ -5,7 +5,6 @@ accountCity = "Karnal"
 accountState = "Haryana"
 
 
-
 // accountId = 8 // not allowed
 
 accountEmail = "Mynewcodechange@gmail.com"
