@@ -2,19 +2,19 @@ const name = "Vijul";
 const age  = "25";
 
 // Concatenation
-// console.log(name + age +"Value");
+//  console.log(name + age +"Value");  // old method
 
-// console.log(`My name is ${name} and I am ${age} years old.`);
+ console.log(`My name is ${name} and I am ${age} years old.`);
 
 const gameName = new String("Vijul-vkc-com");
 
-// console.log(gameName[0]);
-// console.log(gameName.__proto__);
+ console.log(gameName[0]);
+ console.log(gameName.__proto__);
 
-// console.log(gameName.length);
-// console.log(gameName.toUpperCase());
-// console.log(gameName.charAt(2));
-// console.log(gameName.indexOf('F'));
+ console.log(gameName.length);
+ console.log(gameName.toUpperCase());
+ console.log(gameName.charAt(2));
+ console.log(gameName.indexOf('F'));
 
 
  const newString = gameName.substring(0,-4);
