@@ -9,21 +9,18 @@
 
 //Array Method
 
-// myArr.push(6)
-// myArr.push(7)
-// myArr.pop()
+myArr.push(6)
+myArr.push(7)
+myArr.pop() 
+myArr.unshift(9)
+myArr.shift(); // Boolean 
+console.log(myArr.indexOf(5));
 
-// myArr.unshift(9)
-// myArr.shift()
+ const newArr = myArr.join()
 
-// console.log(myArr.includes(9)); // Boolean 
-//  console.log(myArr.indexOf(5));
-
-// const newArr = myArr.join()
-
-// console.log(myArr);
-// console.log(newArr);
-// console.log(typeof newArr);
+ console.log(myArr);
+ console.log(newArr);
+ console.log(typeof newArr);
 
 
 
