@@ -4,7 +4,7 @@
  const myHeros = ["Sinchan", "Doremon"]
 
  const myArr2 = new Array (1, 2, 3, 4,)
-//  console.log(myArr[1]);
+console.log(myArr[1]);
 
 
 //Array Method
