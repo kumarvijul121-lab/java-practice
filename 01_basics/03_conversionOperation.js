@@ -1,15 +1,15 @@
 let age = 19
 let score = 90 
-let score = "90" // string
-let score = "90abc"
-let score = null
-let score = undefined 
+score = "90" // string
+score = "90abc"
+score = null
+score = undefined 
 //NaN => Not a Number
 
-let score = true
+score = true
 //  let score = 1 //=> true , 0 => false
 
-let score = "Vijul"
+score = "Vijul"
 
 console.log(typeof score);
 console.log(typeof (score));
